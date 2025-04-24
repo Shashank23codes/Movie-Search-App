@@ -2,6 +2,10 @@
 
 A modern React application that allows users to search and discover movies using TMDB API and Appwrite backend. Built with React, Vite, and TailwindCSS.
 
+## App Link
+
+Live Site URL: https://shashank23codes.github.io/Movie-Search-App
+
 ## Features
 
 - Search through thousands of movies
