@@ -72,3 +72,8 @@ Key improvements made:
 4. Reorganized the ESLint section into a more general "Development Notes" section
 5. Improved code block formatting with proper language identifiers
 6. Maintained all existing functionality while improving organization and accuracy
+
+## Author
+
+- Github - [Shashank Gupta](https://github.com/Shashank23codes)
+- Linkdin - [Shashank Gupta](https://www.linkedin.com/in/shashank-gupta-238a96209)
