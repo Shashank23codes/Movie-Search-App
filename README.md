@@ -46,7 +46,7 @@ npm run dev
 
 ## Project Structure
 
-Movie Search App/
+Movie-Search-App/
 ├── public/              # Static assets
 ├── src/
 │   ├── components/     # React components
