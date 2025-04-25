@@ -49,7 +49,7 @@ npm run dev
 - npm run preview - Preview production build
 
 ## Project Structure
-
+```
 Movie-Search-App/
 ├── public/              # Static assets
 ├── src/
@@ -58,6 +58,7 @@ Movie-Search-App/
 │   ├── App.jsx         # Main application component
 │   └── main.jsx        # Application entry point
 └── package.json        # Project dependencies and scripts
+```
 
 ## Contributing
 Feel free to submit issues and pull requests.
